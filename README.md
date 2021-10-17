@@ -1,4 +1,4 @@
-# Browsers_and_Servers
+# Browsers in python
 
 "mySocket.py"
 

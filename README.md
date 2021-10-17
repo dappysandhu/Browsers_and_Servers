@@ -1,4 +1,7 @@
 # Browsers_and_Servers
+
+mySocket.py
+
 How Browsers and Servers internally works
 
 
